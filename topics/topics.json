@@ -3,7 +3,7 @@
         "id": 1,
         "title": "IDEF0-диаграммы",
         "description": "IDEF0 диаграммы курсового проекта",
-        "preview": "https://github.com/IlyaMedvedewMedvedewIlya/tree/master/img/A0.png?raw=true"
+        "preview": "img/A0.png"
     },
     {
         "id": 2,
@@ -15,6 +15,6 @@
         "id": 3,
         "title": "UML-диаграммы",
         "description": "UML диаграммы курсового проекта",
-        "preview": "https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/UseCase.png"
+        "preview": "img/UseCase.png"
     }
 ]
