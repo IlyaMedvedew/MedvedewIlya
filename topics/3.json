@@ -11,13 +11,13 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/dprecedentov.png?raw=true" 
+            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/UseCase.png" 
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Описываемый объект: схема БД, описание ролей, модулей ИС для ведения БД по СЦТ"
+                    "text": "Описываемый объект: Структура модуля, описание ролей"
                 }
             ]
         },
@@ -25,43 +25,31 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Логическая схема БД:"
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/logichshema.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "ER-диаграмма ролей:"
+                    "text": "Структура модуля:"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/droley.png?raw=true" 
+            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/ДиаграммаКлассов2.png" 
         },
-         {
+        {
             "type": "text",
             "data": [
                 {
-                    "text": "ER-диаграмма модулей:"
+                    "text": "Описание ролей:"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/dmoduley.png?raw=true" 
-        },
+            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/ДиаграммаРолей.png" 
+        },         
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Описываемые процессы и потоки данных: создание и настройка сервера и БД, заполнение БД, отображение данных БД на web-странице"
+                    "text": "Описываемые процессы и потоки данных: Регистрация состояния оборудования, запись в базе данных, составление заказов на обслуживание, анализ отчетности"
                 }
             ]
         },
@@ -75,13 +63,13 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/dposledovat.png?raw=true" 
+            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/ДиаграммаSeq.png" 
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Описываемый объект: Компоненты ИС для ведения БД по СЦТ"
+                    "text": "Компонент ИС для ведения данных обслуживания"
                 }
             ]
         },
@@ -89,13 +77,13 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма UML Deployment "
+                    "text": "Диаграмма UML Deployment"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/liza-somova/Somova-page/blob/master/img/komponent.png?raw=true" 
+            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/ДиаграммаКомпонентов.png" 
         }
       ]
 }
