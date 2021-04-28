@@ -11,7 +11,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/UseCase.png" 
+            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/UseCase.png" 
         },
         {
             "type": "text",
@@ -31,7 +31,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/ДиаграммаКлассов2.png" 
+            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/ДиаграммаКлассов2.png" 
         },
         {
             "type": "text",
@@ -43,7 +43,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/ДиаграммаРолей.png" 
+            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/ДиаграммаРолей.png" 
         },         
         {
             "type": "text",
@@ -63,7 +63,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/ДиаграммаSeq.png" 
+            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/ДиаграммаSeq.png" 
         },
         {
             "type": "text",
@@ -83,7 +83,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/ДиаграммаКомпонентов.png" 
+            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/ДиаграммаКомпонентов.png" 
         }
       ]
 }
