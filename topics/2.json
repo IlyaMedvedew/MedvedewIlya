@@ -1,6 +1,62 @@
 {
-    "title": "UML Class",
+    "title": "DFD-диаграммы",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Функциональное моделирование программных и информационных средств ",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Конфигурация технических средств: ПК с операционной системой Microsoft Windows 10, платформу 1С начиная от версии 8.3."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Конфигурация программных средств: Файловая, Файл-сервер, веб-приложение. "
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Допустимые виды хранилищ и их размещение: Файловая СУБД, MS SQL Server, PostgreSQL, OracleDB. "
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А12"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/A121.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А5"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/IlyaMedvedew/Medvedew.github.io/blob/main/Kurs/A5.png" 
+        }  
     ]
 }
