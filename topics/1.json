@@ -20,7 +20,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/A0.png?raw=true" 
+            "data":"img/A0.png" 
         },
         {
             "type": "text",
@@ -32,7 +32,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/A1-5.png?raw=true" 
+            "data":"img/A1-5.png" 
         },
         {
             "type": "text",
@@ -44,7 +44,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/A1.png?raw=true" 
+            "data":"img/A1.png" 
         },
         {
             "type": "text",
@@ -56,7 +56,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/A2.png?raw=true" 
+            "data":"img/A2.png" 
         },
         {
             "type": "text",
@@ -68,7 +68,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/A3.png?raw=true" 
+            "data":"img/A3.png" 
         },
         {
             "type": "text",
@@ -80,7 +80,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/A4.png?raw=true" 
+            "data":"img/A4.png" 
         },
         {
             "type": "text",
@@ -92,7 +92,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/IlyaMedvedew/MedvedewIlya/tree/master/img/A5.png?raw=true" 
+            "data":"img/A5.png" 
         }
     ]
 }
